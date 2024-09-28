@@ -56,6 +56,7 @@ Stress busters- Describes the activities, practices, or techniques the student e
 Time utilized- Represents the overall time management or utilization of time by the student during a specific period, considering various activities mentioned in the dataset.
 
 
+![Capture-po3](https://github.com/user-attachments/assets/41565aa7-322a-4a04-8647-d316bc8a1c74)
 
 Link for proper study on visualization
 
