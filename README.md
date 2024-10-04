@@ -1,5 +1,14 @@
-### Covid dataset
+# Covid dataset inclusion in visulaisation reports
 
+
+![Capture-po3](https://github.com/user-attachments/assets/41565aa7-322a-4a04-8647-d316bc8a1c74)
+
+Link for proper study on visualization
+
+Capture-po3 https://drive.google.com/file/d/19FXnecwzP49GYBrLqKDEXuTT5VzFTmLU/view?usp=sharing
+### Covid sales Dataset Link
+
+Problem Statement:
 The impact of COVID-19 on students has been significant, with the pandemic disrupting education and daily life for millions of students around the world. As a data analytics beginner, the objective of this assignment is to analyze the student survey dataset on the impact of COVID-19 and gain insights into how students have coped with the pandemic and adapted to online learning.
 
 ### Covid Dashboard
@@ -56,8 +65,3 @@ Stress busters- Describes the activities, practices, or techniques the student e
 Time utilized- Represents the overall time management or utilization of time by the student during a specific period, considering various activities mentioned in the dataset.
 
 
-![Capture-po3](https://github.com/user-attachments/assets/41565aa7-322a-4a04-8647-d316bc8a1c74)
-
-Link for proper study on visualization
-
-Capture-po3 https://drive.google.com/file/d/19FXnecwzP49GYBrLqKDEXuTT5VzFTmLU/view?usp=sharing
