@@ -64,4 +64,4 @@ Stress busters- Describes the activities, practices, or techniques the student e
 
 Time utilized- Represents the overall time management or utilization of time by the student during a specific period, considering various activities mentioned in the dataset.
 
-
+here in this project worked on the covid data set related helath conditions and monitoring suejeftct of laws 
