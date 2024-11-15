@@ -1,6 +1,5 @@
 # Covid dataset inclusion in visulaisation reports
 
-
 ![Capture-po3](https://github.com/user-attachments/assets/41565aa7-322a-4a04-8647-d316bc8a1c74)
 
 Link for proper study on visualization
