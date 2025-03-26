@@ -10,7 +10,6 @@ Capture-po3 https://drive.google.com/file/d/19FXnecwzP49GYBrLqKDEXuTT5VzFTmLU/vi
 Problem Statement:
 The impact of COVID-19 on students has been significant, with the pandemic disrupting education and daily life for millions of students around the world. As a data analytics beginner, the objective of this assignment is to analyze the student survey dataset on the impact of COVID-19 and gain insights into how students have coped with the pandemic and adapted to online learning.
 
-
 ### Covid Dashboard
 Use Advanced Power BI Visualisations and Filters.
 
